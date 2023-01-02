@@ -1,0 +1,14 @@
+.profile{
+    text-align: center;
+}
+
+.profile img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+a:hover{
+    background-color: rgb(121, 114, 114);
+}
+
